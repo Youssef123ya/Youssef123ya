@@ -5,7 +5,6 @@
 <br>
 
 <a href="https://youssef123ya.github.io/Freelancer-Platforms/"><img src="https://img.shields.io/badge/Live_Portfolio_Website-111317?style=for-the-badge" alt="Live Portfolio Website"></a>
-<a href="https://wa.me/201273413749"><img src="https://img.shields.io/badge/WhatsApp-%2B20_127_341_3749-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp +20 127 341 3749"></a>
 <a href="https://github.com/Youssef123ya/Freelancer-Platforms"><img src="https://img.shields.io/badge/Services_%26_Portfolio_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Freelancer-Platforms Repo"></a>
 
 <a href="https://www.upwork.com/freelancers/~016f07b2d17f649923"><img src="https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork"></a>
@@ -47,7 +46,6 @@ I build **Python machine-learning prototypes**, **.NET & Azure REST backends**, 
 > Explore all **39 portfolio projects**, **8 services**, real screenshots, and interactive demos on my website or in the repository:
 > - **Interactive Website (AR / EN)**: [**youssef123ya.github.io/Freelancer-Platforms**](https://youssef123ya.github.io/Freelancer-Platforms/)
 > - **Full Repository**: [**github.com/Youssef123ya/Freelancer-Platforms**](https://github.com/Youssef123ya/Freelancer-Platforms)
-> - **Direct WhatsApp**: [**+20 127 341 3749**](https://wa.me/201273413749)
 
 | Platform · المنصة | Profile · الحساب | Scope & Rate · النطاق |
 |---|---|---|
@@ -102,6 +100,6 @@ I build **Python machine-learning prototypes**, **.NET & Azure REST backends**, 
 
 <div align="center">
 
-**[🌐 Portfolio Website](https://youssef123ya.github.io/Freelancer-Platforms/)** &nbsp;·&nbsp; **[💬 WhatsApp: +20 127 341 3749](https://wa.me/201273413749)** &nbsp;·&nbsp; **[💼 LinkedIn](https://www.linkedin.com/in/youssef-yacoup-745234280/)** &nbsp;·&nbsp; **[🗂️ Full Services & Portfolio Repo](https://github.com/Youssef123ya/Freelancer-Platforms)**
+**[🌐 Portfolio Website](https://youssef123ya.github.io/Freelancer-Platforms/)** &nbsp;·&nbsp; **[💼 LinkedIn](https://www.linkedin.com/in/youssef-yacoup-745234280/)** &nbsp;·&nbsp; **[🗂️ Full Services & Portfolio Repo](https://github.com/Youssef123ya/Freelancer-Platforms)**
 
 </div>
