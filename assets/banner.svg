@@ -1,17 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 284" width="100%">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#111317"/><stop offset="100%" stop-color="#181b20"/>
-    </linearGradient>
-    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#272A30" opacity="0.7"/>
     </pattern>
   </defs>
-  <rect width="1200" height="280" rx="16" fill="url(#g)"/>
-  <rect width="1200" height="280" rx="16" fill="url(#grid)"/>
-  <rect x="16" y="16" width="1168" height="248" rx="10" fill="none" stroke="#ffffff" stroke-opacity="0.1" stroke-width="1"/>
-  <line x1="540" y1="64" x2="660" y2="64" stroke="#ffffff" stroke-opacity="0.25" stroke-width="1.5"/>
-  <text x="600" y="129" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-0.5" fill="#f8fafc">Youssef Yacoup</text>
-  <text x="600" y="179" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#a1a1aa">AI &amp; Backend Developer · Python · .NET · Azure · React</text>
-  <text x="600" y="221" text-anchor="middle" direction="rtl" font-family="Segoe UI, Tahoma, Arial, sans-serif" font-size="21" fill="#d4d4d8">مطوّر Backend وذكاء اصطناعي · خدماتي ومعرض أعمالي</text>
+  <rect width="1200" height="284" rx="14" fill="#111215"/>
+  <rect width="1200" height="284" rx="14" fill="url(#dots)"/>
+  <rect x="1" y="1" width="1198" height="282" rx="13" fill="none" stroke="#272A30" stroke-width="1.5"/>
+  <rect x="64" y="0" width="140" height="4" fill="#C2410C"/>
+  <rect x="204" y="0" width="140" height="4" fill="#1D4ED8"/>
+  <rect x="344" y="0" width="140" height="4" fill="#047857"/>
+  <rect x="484" y="0" width="90" height="4" fill="#D97706"/>
+  <g transform="translate(64, 52)">
+    <rect x="0" y="0" width="10" height="10" rx="2" fill="#C2410C"/>
+    <text x="20" y="10" fill="#A1A1AA" font-family="JetBrains Mono,Consolas,monospace" font-size="12" font-weight="600" letter-spacing="2">YOUSSEF YACOUP // SOFTWARE ENGINEER &amp; CLOUD ARCHITECT</text>
+    <text x="0" y="64" fill="#FAFAFA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="40" font-weight="800" letter-spacing="-0.8">Youssef Yacoup — Engineering Portfolio</text>
+    <text x="0" y="104" fill="#A1A1AA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="400">Full-Stack .NET &amp; React  ·  Cloud &amp; DevOps (AWS / Azure)  ·  AI &amp; Data Engineering</text>
+  </g>
+  <rect x="64" y="212" width="206" height="32" rx="6" fill="#181A1F" stroke="#2D3139" stroke-width="1"/><circle cx="78" cy="228" r="3.5" fill="#1D4ED8"/><text x="172.0" y="233" fill="#E4E4E7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle">39 Delivered Projects</text><rect x="282" y="212" width="158" height="32" rx="6" fill="#181A1F" stroke="#2D3139" stroke-width="1"/><circle cx="296" cy="228" r="3.5" fill="#047857"/><text x="366.0" y="233" fill="#E4E4E7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle">8 Core Services</text><rect x="452" y="212" width="182" height="32" rx="6" fill="#181A1F" stroke="#2D3139" stroke-width="1"/><circle cx="466" cy="228" r="3.5" fill="#C2410C"/><text x="548.0" y="233" fill="#E4E4E7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle">5 Global Platforms</text><rect x="646" y="212" width="182" height="32" rx="6" fill="#181A1F" stroke="#2D3139" stroke-width="1"/><circle cx="660" cy="228" r="3.5" fill="#D97706"/><text x="742.0" y="233" fill="#E4E4E7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle">5.0★ Client Rating</text><rect x="840" y="212" width="134" height="32" rx="6" fill="#181A1F" stroke="#2D3139" stroke-width="1"/><circle cx="854" cy="228" r="3.5" fill="#0F766E"/><text x="912.0" y="233" fill="#E4E4E7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle">100% On-Time</text>
 </svg>
