@@ -1,22 +1,3 @@
-<div align="center">
-
-<a href="https://youssef123ya.github.io/Freelancer-Platforms/"><img src="https://img.shields.io/badge/Live_Portfolio_Website-111317?style=for-the-badge" alt="Live Portfolio Website"></a>
-<a href="https://github.com/Youssef123ya/Freelancer-Platforms"><img src="https://img.shields.io/badge/Services_%26_Portfolio_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Freelancer-Platforms Repo"></a>
-
-<a href="https://www.upwork.com/freelancers/~016f07b2d17f649923"><img src="https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork"></a>
-<a href="https://www.freelancer.com/u/yyacoup"><img src="https://img.shields.io/badge/Freelancer.com-29B2FE?style=flat-square&logo=freelancer&logoColor=white" alt="Freelancer.com"></a>
-<a href="https://mostaql.com/u/yyacoup"><img src="https://img.shields.io/badge/Mostaql-2386C8?style=flat-square" alt="Mostaql"></a>
-<a href="https://nafezly.com/u/YoussefYacoup"><img src="https://img.shields.io/badge/Nafezly-2E3A87?style=flat-square" alt="Nafezly"></a>
-<a href="https://khamsat.com/user/youssefyacoup"><img src="https://img.shields.io/badge/Khamsat-F7931E?style=flat-square" alt="Khamsat"></a>
-<a href="https://www.linkedin.com/in/youssef-yacoup-745234280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.kaggle.com/youssefyacoup"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-<a href="https://devpost.com/Youssef123ya"><img src="https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white" alt="Devpost"></a>
-<a href="https://www.youtube.com/@YoussefYacoup"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
-
-</div>
-
----
-
 <table>
 <tr>
 <td width="160" align="center" valign="middle">
@@ -34,7 +15,22 @@ I build **Python machine-learning prototypes**, **.NET & Azure REST backends**, 
 </td>
 </tr>
 </table>
+<div align="center">
 
+<a href="https://youssef123ya.github.io/Freelancer-Platforms/"><img src="https://img.shields.io/badge/Live_Portfolio_Website-111317?style=for-the-badge" alt="Live Portfolio Website"></a>
+<a href="https://github.com/Youssef123ya/Freelancer-Platforms"><img src="https://img.shields.io/badge/Services_%26_Portfolio_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Freelancer-Platforms Repo"></a>
+
+<a href="https://www.upwork.com/freelancers/~016f07b2d17f649923"><img src="https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork"></a>
+<a href="https://www.freelancer.com/u/yyacoup"><img src="https://img.shields.io/badge/Freelancer.com-29B2FE?style=flat-square&logo=freelancer&logoColor=white" alt="Freelancer.com"></a>
+<a href="https://mostaql.com/u/yyacoup"><img src="https://img.shields.io/badge/Mostaql-2386C8?style=flat-square" alt="Mostaql"></a>
+<a href="https://nafezly.com/u/YoussefYacoup"><img src="https://img.shields.io/badge/Nafezly-2E3A87?style=flat-square" alt="Nafezly"></a>
+<a href="https://khamsat.com/user/youssefyacoup"><img src="https://img.shields.io/badge/Khamsat-F7931E?style=flat-square" alt="Khamsat"></a>
+<a href="https://www.linkedin.com/in/youssef-yacoup-745234280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.kaggle.com/youssefyacoup"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+<a href="https://devpost.com/Youssef123ya"><img src="https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white" alt="Devpost"></a>
+<a href="https://www.youtube.com/@YoussefYacoup"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+
+</div>
 ---
 
 ## 🌐 Services & Portfolio · الخدمات ومعرض الأعمال
