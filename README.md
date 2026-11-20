@@ -31,7 +31,6 @@ I build **Python machine-learning prototypes**, **.NET & Azure REST backends**, 
 <a href="https://www.youtube.com/@YoussefYacoup"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 
 </div>
----
 
 ## 🌐 Services & Portfolio · الخدمات ومعرض الأعمال
 
