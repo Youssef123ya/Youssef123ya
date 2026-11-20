@@ -35,10 +35,6 @@ I build **Python machine-learning prototypes**, **.NET & Azure REST backends**, 
 
 ## 🌐 Services & Portfolio · الخدمات ومعرض الأعمال
 
-> Explore all **portfolio projects**, **services**, real screenshots, and interactive demos on my website or in the repository:
-> - **Interactive Website (AR / EN)**: [**youssef123ya.github.io/Freelancer-Platforms**](https://youssef123ya.github.io/Freelancer-Platforms/)
-> - **Full Repository**: [**github.com/Youssef123ya/Freelancer-Platforms**](https://github.com/Youssef123ya/Freelancer-Platforms)
-
 | Platform · المنصة | Profile · الحساب | Scope & Rate · النطاق |
 |---|---|---|
 | **Upwork** | [upwork.com/freelancers/~016f07b2d17f649923](https://www.upwork.com/freelancers/~016f07b2d17f649923) | `$20/hr` · >30 hrs/wk · AI, ML & .NET Backends |
