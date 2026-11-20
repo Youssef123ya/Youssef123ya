@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Youssef Yacoup — AI & Backend Developer">
-
-<br>
-
 <a href="https://youssef123ya.github.io/Freelancer-Platforms/"><img src="https://img.shields.io/badge/Live_Portfolio_Website-111317?style=for-the-badge" alt="Live Portfolio Website"></a>
 <a href="https://github.com/Youssef123ya/Freelancer-Platforms"><img src="https://img.shields.io/badge/Services_%26_Portfolio_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Freelancer-Platforms Repo"></a>
 
