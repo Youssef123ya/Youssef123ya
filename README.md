@@ -35,7 +35,7 @@ I build **Python machine-learning prototypes**, **.NET & Azure REST backends**, 
 
 ## 🌐 Services & Portfolio · الخدمات ومعرض الأعمال
 
-> Explore all **39 portfolio projects**, **8 services**, real screenshots, and interactive demos on my website or in the repository:
+> Explore all **portfolio projects**, **services**, real screenshots, and interactive demos on my website or in the repository:
 > - **Interactive Website (AR / EN)**: [**youssef123ya.github.io/Freelancer-Platforms**](https://youssef123ya.github.io/Freelancer-Platforms/)
 > - **Full Repository**: [**github.com/Youssef123ya/Freelancer-Platforms**](https://github.com/Youssef123ya/Freelancer-Platforms)
 
